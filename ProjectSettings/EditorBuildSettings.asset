@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/loadingScreen.unity
+    guid: ff80e1f8c72066f4d91530de7a80a53b
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d249cf8d778084b4a9a958f63e3fc7c8
+  - enabled: 1
+    path: Assets/Scenes/planetSelect.unity
+    guid: ac69110a7e3fc7942a3b29b735fc0cb1
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: f7f585285947c7946ad79e5322203e7b
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 2610b4c37de5c7f439489d71211882bd
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: fd5cc411ef6842b4dbf4902346ff3cb8
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 818e8f43e5bc27c438a0f4ae7ddf6bbf
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 3e69fb985f665324d92379444a01f590
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 5f43235b43b2d7b46b0725e43a09dc4e
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: a85dea571693e3647836d54073ee3394
+  m_configObjects: {}
